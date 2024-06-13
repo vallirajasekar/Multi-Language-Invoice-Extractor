@@ -1,17 +1,12 @@
-Certainly! Below is the `README.md` file content that you can use for your project. This includes setup instructions, a brief description of the project's purpose, and how it leverages Google Generative AI to process invoices without the need for traditional OCR methods like Tesseract and OpenCV.
 
-```markdown
+
+
 # Multi-Language Invoice Extractor
 
 This project aims to extract and understand content from multi-language invoices using Google Generative AI (Gemini Model). This reduces the need for traditional OCR methods such as Tesseract and OpenCV.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Description](#description)
-- [Acknowledgements](#acknowledgements)
 
-## Installation
+### Installation
 
 ### Step 1: Clone the Repository
 ```bash
@@ -84,9 +79,3 @@ This project uses the following technologies:
 !!! Thank You !!! Visit Us Again :)
 ```
 
-### Explanation:
-
-- **Installation Instructions**: Clear steps to create and activate the Conda environment, clone the repository, and install the necessary dependencies.
-- **Usage Instructions**: Guide on setting up the API key, running the Streamlit application, and using the interface to upload invoices and get responses.
-- **Project Description**: Brief on the project's aim to handle multi-language invoices using AI, reducing the dependency on traditional OCR methods.
-- **Acknowledgements**: Credits to the technologies used in the project.
